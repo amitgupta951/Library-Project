@@ -1,0 +1,17 @@
+
+For User
+
+
+Login Details for user: 
+Username: amit.g@iksula.com
+Password: 12345678
+
+For Admin Panel
+
+
+Login Details for admin : 
+Username: amit
+Password: amit@123
+
+
+
